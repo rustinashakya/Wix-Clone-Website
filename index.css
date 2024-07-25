@@ -23,7 +23,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding-left: 444px;
-    padding-right: 455px;
+    padding-right: 465px;
     height: 100%;
 }
 
@@ -34,7 +34,7 @@ header {
 
 ul {
     padding-top: 1.3rem;
-    margin-left: 90px;
+    margin-left: 83px;
     text-decoration: none;
     list-style: none;
     display: flex;
@@ -107,25 +107,51 @@ ul li {
     letter-spacing: 5px;
 }
 
+/* ================================================================================================================================= */
 /* Second Pageeeeeeeeeeeeeeeee */
 .section-2 {
-    padding-left: 494px;
-    padding-right: 494px;
-    padding-top: 84px;
+    padding-left: 483.5px;
+    padding-right: 405px;
+    padding-top: 79px;
     width: 100%;
     height: 497px;
     background-color: #3C3C4E;
 }
 
+.section-2-1{
+    padding-top: 57px;
+}
+
+.custom-line-white {
+    width: 51px;
+    height: 12px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
 .fourth-text {
     font-size: 80px;
-    line-height: 80px;
+    line-height: 72px;
+    padding-top: 13px;
     color: white;
 }
 
 .fifth-text {
     color: white;
+    letter-spacing: 1.6px;
 }
+
+.custom-line-section-2{
+    width: 39px;
+    height: 12px;
+    background-color: #4E5AC3;
+    margin-bottom: 17px;
+}
+
+.section-2-2{
+    line-height: 19px;
+}
+
 
 .custom-line {
     width: 50px;
@@ -133,6 +159,7 @@ ul li {
     background-color: #4E5AC3;
     margin-bottom: 10px;
 }
+/* ================================================================================================================================= */
 
 
 /* Third Pageeeeeeeeeeeeee  */
@@ -193,13 +220,6 @@ ul li {
     width: 100%;
     height: 100vh;
     background-color: #4E5AC3;
-}
-
-.custom-line-white {
-    width: 50px;
-    height: 10px;
-    background-color: white;
-    margin-bottom: 10px;
 }
 
 .fourteenth-text{
