@@ -30,7 +30,8 @@ header {
 
 .logo{
     width: 500px;
-    border: 1px solid yellow;
+    /* border: 1px solid yellow; */
+    border: 1px solid white;
     /* padding-left: 500px; */
     margin-left: 140px;
 }
