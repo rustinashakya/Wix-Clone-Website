@@ -31,28 +31,59 @@ header {
 .logo{
     width: 500px;
     /* border: 1px solid yellow; */
-    border: 1px solid white;
+    /* border: 1px solid white; */
     /* padding-left: 500px; */
-    margin-left: 140px;
+    margin-left: 443.5px;
+    margin-right: 109px;
 }
 
 ul {
-    padding-top: 1.3rem;
-    /* margin-left: 83px; */
+    padding-top: 1.2rem;
+    margin-right: 5px;
     text-decoration: none;
     list-style: none;
     display: flex;
 }
 
 ul li {
-    margin: 0px 15px 0px 4.5px;
+    /* margin: 0px 5px 0px 0px; */
     /* margin: 0px 0px 0px 8px; */
+    /* padding-right: 20px; */
+    width: 90px;
     font-size: 14px;
 }
 
+.first-list{
+    width: 67.2px;
+    margin-right: 20px;
+}
+
+.second-list{
+    width: 73px;
+    margin-right: 20px;
+}
+
+.third-list{
+    width: 79.8px;
+    margin-right: 20px;
+}
+
+.fourth-list{
+    width: 45px;
+    margin-right: 20px;
+}
+
+.fifth-list{
+    width: 41px;
+    margin-right: 20px;
+}
+
 .btns{
+    /* border: 1px solid yellow; */
     display: flex;
-    padding-top: 0.5rem;
+    padding-top: 0.2rem;
+    padding-left: 2px;
+    margin-right: 462px;
 }
 
 .unstyled-button-1,
@@ -70,6 +101,7 @@ ul li {
 
 .unstyled-button-2 {
     font-size: 17px;
+    padding-bottom: 1px;
 }
 
 .circle-button-1 {
@@ -81,10 +113,10 @@ ul li {
     background-color: rgb(134, 134, 134);
     outline: none;
     cursor: pointer;
-    width: 27px;
-    height: 27px;
+    width: 26px;
+    height: 26px;
     border-radius: 50%;
-    font-size: 15px;
+    font-size: 13px;
     color: white;
     border-color: rgb(134, 134, 134);
 }
